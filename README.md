@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.freepik.com/free-vector/software-tester-concept-illustration_114360-12815.jpg?w=1800&t=st=1711720174~exp=1711720774~hmac=67129724d620a1b8b8824e31b746bc3b3551b24ae9c11ae6fdf02dbded8e8ab2" align="center" height="330" width="500" />
+<img src="https://img.freepik.com/free-vector/software-tester-concept-illustration_114360-12815.jpg?w=1800&t=st=1711720174~exp=1711720774~hmac=67129724d620a1b8b8824e31b746bc3b3551b24ae9c11ae6fdf02dbded8e8ab2" align="center" height="330" width="550" />
 </div>  
   
 
@@ -79,21 +79,11 @@
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=QAIzakson&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QAIzakson&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
-
-</td></tr></table>  
+  
 
 <br/>  
 
-  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=QAIzakson&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
