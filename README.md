@@ -85,8 +85,10 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-
+<!-- BLOG-POST-LIST:START -->
+1. SQL
+2. About-QAIzakson
+3. QAIzakson
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
