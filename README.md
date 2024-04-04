@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.freepik.com/free-vector/software-tester-concept-illustration_114360-12815.jpg?w=1800&t=st=1711720174~exp=1711720774~hmac=67129724d620a1b8b8824e31b746bc3b3551b24ae9c11ae6fdf02dbded8e8ab2" align="center" height="330" width="550" />
+<img src="https://drive.google.com/file/d/1K6msgruGB3qNNRZ7OkgyAD-fwLNBtNnI/view?usp=sharing" align="center" height="330" width="550" />
 </div>  
   
 
